@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/colortext"
+        android:title="@string/colortext" >
+        <menu >
+            <item
+                android:id="@+id/azul"
+                android:title="@string/azul" />
+            <item
+                android:id="@+id/gris"
+                android:title="@string/gris" />
+            <item
+                android:id="@+id/rojo"
+                android:title="@string/Rojo" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/background"
+        android:title="@string/colorfondo" />
+    <item
+        android:id="@+id/salir"
+        android:icon="@drawable/salir"
+        android:title="@string/salir"
+        app:showAsAction="ifRoom" />
+</menu>

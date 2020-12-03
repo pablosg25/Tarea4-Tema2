@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/g"
+        android:title="@string/grande" />
+    <item
+        android:id="@+id/n"
+        android:title="@string/normal" />
+    <item
+        android:id="@+id/p"
+        android:title="@string/pequeño" />
+</menu>

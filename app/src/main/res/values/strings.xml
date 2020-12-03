@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Tarea4</string>
+    <string name="grande"> Grande(60dp) </string>
+    <string name="normal"> Normal(24dp) </string>
+    <string name="pequeño"> pequeño(18dp) </string>
+
+    <string name="salir"> Salir </string>
+    <string name="colortext"> Color Texto </string>
+    <string name="colorfondo"> Color Fondo </string>
+    <string name="azul"> Azul </string>
+    <string name="gris"> gris </string>
+    <string name="Rojo"> Rojo </string>
+
+    <string-array name="fondo">
+        <item>Negro</item>
+        <item>Blanco</item>
+        <item>Gris</item>
+    </string-array>
+
+
+
+</resources>
